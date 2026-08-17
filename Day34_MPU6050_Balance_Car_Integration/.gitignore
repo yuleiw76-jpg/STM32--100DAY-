@@ -1,0 +1,31 @@
+# Keil build output
+OBJ/
+Objects/
+Listings/
+
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+*.lst
+*.dep
+*.htm
+*.build_log.htm
+
+# Local debug and user state
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+DebugConfig/
+EventRecorderStub.scvd
+*_build.log
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+~$*
