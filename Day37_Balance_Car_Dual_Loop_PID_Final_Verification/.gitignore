@@ -1,0 +1,20 @@
+# Keil build output
+OBJ/
+Objects/
+Listings/
+Debug/
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.crf
+*.lst
+
+# Local debug and editor files
+*.bak
+*.log
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+
