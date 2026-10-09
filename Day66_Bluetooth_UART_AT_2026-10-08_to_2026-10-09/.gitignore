@@ -1,0 +1,14 @@
+# Keil build output and per-user debug state
+**/OBJ/
+**/OBJ_LSI/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.uvoptx
+*.uvguix.*
+JLinkSettings.ini
+**/DebugConfig/
