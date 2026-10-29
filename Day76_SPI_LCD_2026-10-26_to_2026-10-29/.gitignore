@@ -1,0 +1,16 @@
+# Keil本机配置与编译输出
+*.uvoptx
+*.uvguix.*
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.elf
+*.map
+*.lnp
+*.lst
+*.htm
+JLinkLog.txt
+JLinkSettings.ini
+Code_*/SPI1/MDK-ARM/SPI1/
