@@ -1,0 +1,19 @@
+# Keil构建产物与本机调试配置
+**/Objects/
+**/Listings/
+**/MDK-ARM/123321/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+*.uvoptx
+*.uvguix.*
+**/JLinkLog.txt
+**/JLinkSettings.ini
+**/DebugConfig/
