@@ -1,0 +1,19 @@
+# Keil生成文件及个人调试配置
+**/OBJ/
+**/Objects/
+**/Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+*.uvoptx
+*.uvguix.*
+**/JLinkLog.txt
+**/JLinkSettings.ini
+**/DebugConfig/
